@@ -4,7 +4,7 @@ with open("../README.md", "r") as fh:
     long_discription = fh.read()
 
 setuptools.setup(
-    name="pymlmodels-MeatBoyed",
+    name="pymlmodels",
     version="0.1.0",
     author="MeatBoyed",
     author_email="charlie2meat@yahoo.com",
